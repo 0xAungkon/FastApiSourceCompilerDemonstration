@@ -2,6 +2,10 @@
 
 This is a sample FastAPI application for a blog, demonstrating a multi-file structure with routers and Pydantic models.
 
+
+<img src="screenshot.png" alt="Output 1" width="600"/>  
+
+
 ## Setup
 
 1.  **Create a virtual environment (recommended):**
